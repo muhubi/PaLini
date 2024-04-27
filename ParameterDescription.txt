@@ -1,0 +1,44 @@
+Parameter	Description
+DayTimeSpeedRate = Day time speed
+NightTimeSpeedRate = Night time speed
+ExpRate = EXP rate
+PalCaptureRate = Pal capture rate
+PalSpawnNumRate = Pal Appearance Rate *Note: Affects game performance
+PalDamageRateAttack = Damage from Pals Multiplier
+PalDamageRateDefense = Damage to Pals Multiplier
+PlayerDamageRateAttack = Damage from Player Multiplier
+PlayerDamageRateDefense = Damage to Player Multiplier
+PlayerStomachDecreaceRate = Player Hunger Depletion Rate
+PlayerStaminaDecreaceRate = Player Stamina Reduction Rate
+PlayerAutoHPRegeneRate = Player Auto Health Regeneration Rate
+PlayerAutoHpRegeneRateInSleep = Player Sleep Health Regeneration Rate
+PalStomachDecreaceRate = Pal Hunger Depletion Rate
+PalStaminaDecreaceRate = Pal Stamina Reduction Rate
+PalAutoHPRegeneRate = Pal Auto Health Regeneration Rate
+PalAutoHpRegeneRateInSleep  Pal Sleep Health Regeneration Rate (Health Regeneration Rate in Palbox)
+BuildObjectDamageRate = Damage to Structure Multiplier
+BuildObjectDeteriorationDamageRate = Structure Deterioration Rate
+CollectionDropRate = Gatherable Items Multiplier
+CollectionObjectHpRate = Gatherable Objects Health Multiplier
+CollectionObjectRespawnSpeedRate = Gatherable Objects Respawn Interval
+EnemyDropItemRate = Dropped Items Multiplier
+DeathPenalty = Death Penalty (None : No drops, Item : Drop all items except equipment, ItemAndEquipment : Drop all items, All : Drop all items and all Pals on team)
+bEnableInvaderEnemy  Enable Invader
+GuildPlayerMaxNum = Max Player Number of Guilds
+PalEggDefaultHatchingTime = Time (h) to incubate Massive Egg. Note: Other eggs also require time to incubate.
+ServerPlayerMaxNum = Maximum number of players that can join the server
+ServerName = Server name
+ServerDescription = Server description
+AdminPassword = Password used to obtain administrative privileges on the server.
+ServerPassword = Password required for server login
+PublicPort = Explicitly specify the external public port in the community server configuration.（This setting does not change the server's listen port.）
+PublicIP = Explicitly specify an external public IP in the community server settings
+RCONEnabled = Enable RCON
+RCONPort = Port Number for RCON
+bShowPlayerList = Enable player list when the press ESC key
+BaseCampMaxWorkerNum = Max pals per basecamp（MAX 20）
+RESTAPIEnabled = Enable REST API
+RESTAPIPort = Listen port for REST API
+bIsUseBackupSaveData = Enable world backup (Disk load will be increase when enabled)
+LogFormatType = Log format Text or Json
+AllowConnectPlatform = !!Doesn't work this version!!
